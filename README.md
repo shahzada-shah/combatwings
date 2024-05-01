@@ -16,7 +16,7 @@ Combat Wings Archive is a robust application designed for aviation enthusiasts a
 - **API Calls:** Axios to interact with custom Backend API
 
 ## Special Note
-Built using the PERN stack and hosted on AWS, Combat Wings Archive ensures a scalable and reliable infrastructure. By leveraging cloud services, it offers seamless and secure user experiences with efficient load times.
+Built using the PERN stack and hosted on AWS, Combat Wings Archive ensures a scalable and reliable infrastructure. By leveraging cloud services, it offers seamless and secure user experiences.
 
 ![Main Page](https://github.com/shahzada-shah/combatwings/blob/main/assets/hero.png)
 
